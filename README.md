@@ -1,3 +1,3 @@
 # decagonweb
 
-A single web page created using mostly flexbox properties. 
+A single responsive web page created using mostly flexbox properties. 
